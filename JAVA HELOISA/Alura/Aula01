@@ -1,0 +1,6 @@
+class Programa {
+
+    
+    System.out.println("ola mundo");
+
+}
